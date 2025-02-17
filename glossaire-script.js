@@ -26,5 +26,3 @@ $(".glossaire_item").each(function () {
 if (lastItem !== null) {
   $("<div class='glossaire_divider'></div>").insertAfter(lastItem);
 }
-
-HJHH
